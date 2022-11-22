@@ -1,4 +1,5 @@
 ** Settings ***
+Documentation         Reusable Keyword And Wrap Keyword
 Resource              ../pageObject/cart/cart.robot
 Resource              ../pageObject/search/search.robot
 
