@@ -1,0 +1,11 @@
+textBox_SearchPage: //*[@id="twotabsearchtextbox"]
+buttonClickSearch_SearchPage: //*[@id="nav-search-submit-button"]
+searchResultPage_searchPage: //*[@class="a-color-state a-text-bold" and contains(text(), "{0}")]
+checkBox_resultSearchPage: //*[@id="brandsRefinements"]//span[contains(text(), "Dell")]/preceding-sibling::*//i[@class="a-icon a-icon-checkbox"]
+checkBoxSelected_resultSearchPage: //*[@id="brandsRefinements"]//span[contains(text(), "Dell")]/preceding-sibling::*//input
+resultSearchTitleCard_resultSearchPage: //*[@class="a-size-mini a-spacing-none a-color-base s-line-clamp-2"]//*[@class="a-size-medium a-color-base a-text-normal"]
+productTitleCard_detailSearchPage: //*[@id="productTitle"]
+quantityButton_detailSearchPage: //*[@class="a-button-inner"]
+quantityText_detailSearchPage: //*[@class="a-popover-inner"]//*[@id="quantity_{0}"]
+cartButton_detailSearchPage: //*[@id="add-to-cart-button"]
+numberQuantity_detailSearchPage: //*[@class="a-dropdown-prompt"]

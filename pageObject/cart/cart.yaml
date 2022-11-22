@@ -1,0 +1,8 @@
+directToCartButton_cartPage: //*[@id="sw-gtc"]//*[contains(text(), "Go to Cart")]
+titleItemOnCart_cartPage: //*[@class="a-truncate a-size-medium"]//*[@class="a-truncate-cut"]
+deleteCart_cartPage: //*[@class="a-size-small sc-action-delete"]//*[@value="Delete"]
+successAddedCart_cartPage: //*[@id="NATC_SMART_WAGON_CONF_MSG_SUCCESS"]//*[contains(text(), "Added to Cart")]
+totalItemsCart_cartPage: //*[@id="sc-subtotal-label-buybox" and contains(text(), "Subtotal ({0} items)")]
+imageDetail_cartPage: //*[@id="imageBlock"]
+emptyPageCart_cartPage: //*[@class="a-row"]//*[@class="a-spacing-mini a-spacing-top-base" and contains(text(), "Your Amazon Cart is empty")]
+subtotal0EmptyCart_cartPage: //*[@id="sc-subtotal-label-activecart" and contains(text(), "Subtotal (0 items):")]
