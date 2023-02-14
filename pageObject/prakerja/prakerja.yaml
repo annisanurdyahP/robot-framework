@@ -1,0 +1,5 @@
+loginButton_prakerjaPage: //a[@href="https://dashboard.prakerja.go.id/masuk"]
+titleTextLogin_prakerjaPage: //*[@class="header-text"]
+emailField_prakerjaPage: //*[@id="email"]
+passwordField_prakerjaPage: //*[@id="password"]
+confirmPasswordField_prakerjaPage: //*[@id="confirmPassword"]
