@@ -1,4 +1,4 @@
-# alami
+# Robot Framework amazon
 How To Run 
 >> robot suites/suite.robot
 
